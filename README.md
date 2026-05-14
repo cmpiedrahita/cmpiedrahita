@@ -1,27 +1,36 @@
-# Hi, I'm Carlos Piedrahita 👋
+# Carlos Piedrahita
 
-Full Stack Developer focused on scalable web applications, real-time systems, and backend architecture.
+Full Stack Developer focused on scalable backend systems, real-time applications, and modern web technologies.
 
-## Tech Stack
+Currently working with:
 - Angular
 - React
-- Node.js
-- NestJS
+- Node.js / NestJS
 - PostgreSQL
 - RabbitMQ
 - Docker
 
-## Featured Projects
-### OrderPanel
-Real-time order tracking dashboard using Socket.io and PostgreSQL.
-
-### Music3D
-Interactive 3D music visualization platform built with React and Three.js.
-
-### Task Manager API
-REST API with JWT authentication, NestJS and PostgreSQL.
-
-## Currently Learning
+Interested in:
+- Backend architecture
 - Microservices
-- AWS
-- System Design
+- Real-time systems
+- Cloud infrastructure
+
+---
+
+## Tech Stack
+
+Frontend  
+TypeScript · Angular · React · Tailwind CSS · Vite · Three.js
+
+Backend  
+Node.js · Express · NestJS · REST APIs · Socket.io · JWT
+
+Data & Infrastructure  
+PostgreSQL · MongoDB · RabbitMQ · Docker · AWS
+
+---
+
+## Featured Work
+
+Check the pinned repositories below for selected projects and technical implementations.
