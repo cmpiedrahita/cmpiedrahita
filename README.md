@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Carlos Piedrahita 👋
 
-<!--
-**cmpiedrahita/cmpiedrahita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer focused on scalable web applications, real-time systems, and backend architecture.
 
-Here are some ideas to get you started:
+## Tech Stack
+- Angular
+- React
+- Node.js
+- NestJS
+- PostgreSQL
+- RabbitMQ
+- Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+### OrderPanel
+Real-time order tracking dashboard using Socket.io and PostgreSQL.
+
+### Music3D
+Interactive 3D music visualization platform built with React and Three.js.
+
+### Task Manager API
+REST API with JWT authentication, NestJS and PostgreSQL.
+
+## Currently Learning
+- Microservices
+- AWS
+- System Design
